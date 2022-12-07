@@ -1,0 +1,135 @@
+E:\D\Універ))\Programming\C#\WPF\TIMC\TIMC\bin\Debug\TIMC.exe
+E:\D\Універ))\Programming\C#\WPF\TIMC\TIMC\bin\Debug\TIMC.pdb
+E:\D\Універ))\Programming\C#\WPF\TIMC\TIMC\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\D\Універ))\Programming\C#\WPF\TIMC\TIMC\obj\x86\Debug\MainWindow.baml
+E:\D\Універ))\Programming\C#\WPF\TIMC\TIMC\obj\x86\Debug\MainWindow.g.cs
+E:\D\Універ))\Programming\C#\WPF\TIMC\TIMC\obj\x86\Debug\App.g.cs
+E:\D\Універ))\Programming\C#\WPF\TIMC\TIMC\obj\x86\Debug\TIMC_MarkupCompile.cache
+E:\D\Універ))\Programming\C#\WPF\TIMC\TIMC\obj\x86\Debug\TIMC.g.resources
+E:\D\Універ))\Programming\C#\WPF\TIMC\TIMC\obj\x86\Debug\TIMC.Properties.Resources.resources
+E:\D\Універ))\Programming\C#\WPF\TIMC\TIMC\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\D\Універ))\Programming\C#\WPF\TIMC\TIMC\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\D\Універ))\Programming\C#\WPF\TIMC\TIMC\obj\x86\Debug\TIMC.exe
+E:\D\Універ))\Programming\C#\WPF\TIMC\TIMC\obj\x86\Debug\TIMC.pdb
+E:\D\Універ))\Programming\C#\WPF\TIMC\TIMC\obj\x86\Debug\TableDrawer.baml
+E:\D\Універ))\Programming\C#\WPF\TIMC\TIMC\obj\x86\Debug\TableDrawer.g.cs
+E:\D\Універ))\Programming\C#\WPF\TIMC\TIMC\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\D\Універ))\Programming\C#\WPF\TIMC\TIMC\obj\x86\Debug\TIMC_MarkupCompile.lref
+E:\D\Універ))\Programming\C#\WPF\TIMC\TIMC\obj\x86\Debug\PlotDrawer.baml
+E:\D\Універ))\Programming\C#\WPF\TIMC\TIMC\obj\x86\Debug\PlotDrawer.g.cs
+e:\C#\TIMC\obj\x86\Debug\TIMC.exe
+e:\C#\TIMC\obj\x86\Debug\TIMC.pdb
+e:\C#\TIMC\bin\Debug\TIMC.exe
+e:\C#\TIMC\bin\Debug\TIMC.pdb
+e:\C#\TIMC\obj\x86\Debug\TIMC.csprojResolveAssemblyReference.cache
+e:\C#\TIMC\obj\x86\Debug\PlotDrawer.baml
+e:\C#\TIMC\obj\x86\Debug\TableDrawer.baml
+e:\C#\TIMC\obj\x86\Debug\MainWindow.g.cs
+e:\C#\TIMC\obj\x86\Debug\PlotDrawer.g.cs
+e:\C#\TIMC\obj\x86\Debug\TableDrawer.g.cs
+e:\C#\TIMC\obj\x86\Debug\App.g.cs
+e:\C#\TIMC\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+e:\C#\TIMC\obj\x86\Debug\TIMC_MarkupCompile.cache
+e:\C#\TIMC\obj\x86\Debug\TIMC_MarkupCompile.lref
+e:\C#\TIMC\obj\x86\Debug\MainWindow.baml
+e:\C#\TIMC\obj\x86\Debug\TIMC.g.resources
+e:\C#\TIMC\obj\x86\Debug\TIMC.Properties.Resources.resources
+e:\C#\TIMC\obj\x86\Debug\TIMC.csproj.GenerateResource.Cache
+g:\TIMC\obj\x86\Debug\TIMC.exe
+g:\TIMC\obj\x86\Debug\TIMC.pdb
+g:\TIMC\bin\Debug\TIMC.exe
+g:\TIMC\bin\Debug\TIMC.pdb
+g:\TIMC\obj\x86\Debug\ResolveAssemblyReference.cache
+g:\TIMC\obj\x86\Debug\PlotDrawer.baml
+g:\TIMC\obj\x86\Debug\TableDrawer.baml
+g:\TIMC\obj\x86\Debug\MainWindow.g.cs
+g:\TIMC\obj\x86\Debug\PlotDrawer.g.cs
+g:\TIMC\obj\x86\Debug\TableDrawer.g.cs
+g:\TIMC\obj\x86\Debug\App.g.cs
+g:\TIMC\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+g:\TIMC\obj\x86\Debug\TIMC_MarkupCompile.cache
+g:\TIMC\obj\x86\Debug\TIMC_MarkupCompile.lref
+g:\TIMC\obj\x86\Debug\MainWindow.baml
+g:\TIMC\obj\x86\Debug\TIMC.g.resources
+g:\TIMC\obj\x86\Debug\TIMC.Properties.Resources.resources
+g:\TIMC\obj\x86\Debug\GenerateResource.read.1.tlog
+g:\TIMC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Оленка\Desktop\TIMC\obj\x86\Debug\TIMC.exe
+C:\Users\Оленка\Desktop\TIMC\obj\x86\Debug\TIMC.pdb
+C:\Users\Оленка\Desktop\TIMC\bin\Debug\TIMC.exe
+C:\Users\Оленка\Desktop\TIMC\bin\Debug\TIMC.pdb
+C:\Users\Оленка\Desktop\TIMC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Оленка\Desktop\TIMC\obj\x86\Debug\PlotDrawer.baml
+C:\Users\Оленка\Desktop\TIMC\obj\x86\Debug\TableDrawer.baml
+C:\Users\Оленка\Desktop\TIMC\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Оленка\Desktop\TIMC\obj\x86\Debug\PlotDrawer.g.cs
+C:\Users\Оленка\Desktop\TIMC\obj\x86\Debug\TableDrawer.g.cs
+C:\Users\Оленка\Desktop\TIMC\obj\x86\Debug\App.g.cs
+C:\Users\Оленка\Desktop\TIMC\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Оленка\Desktop\TIMC\obj\x86\Debug\TIMC_MarkupCompile.cache
+C:\Users\Оленка\Desktop\TIMC\obj\x86\Debug\TIMC_MarkupCompile.lref
+C:\Users\Оленка\Desktop\TIMC\obj\x86\Debug\MainWindow.baml
+C:\Users\Оленка\Desktop\TIMC\obj\x86\Debug\TIMC.g.resources
+C:\Users\Оленка\Desktop\TIMC\obj\x86\Debug\TIMC.Properties.Resources.resources
+C:\Users\Оленка\Desktop\TIMC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Оленка\Desktop\TIMC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Оленка\Desktop\TIMC\TIMC\obj\x86\Debug\TIMC.exe
+C:\Users\Оленка\Desktop\TIMC\TIMC\obj\x86\Debug\TIMC.pdb
+C:\Users\Оленка\Desktop\TIMC\TIMC\bin\Debug\TIMC.exe
+C:\Users\Оленка\Desktop\TIMC\TIMC\bin\Debug\TIMC.pdb
+C:\Users\Оленка\Desktop\TIMC\TIMC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Оленка\Desktop\TIMC\TIMC\obj\x86\Debug\PlotDrawer.baml
+C:\Users\Оленка\Desktop\TIMC\TIMC\obj\x86\Debug\TableDrawer.baml
+C:\Users\Оленка\Desktop\TIMC\TIMC\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Оленка\Desktop\TIMC\TIMC\obj\x86\Debug\PlotDrawer.g.cs
+C:\Users\Оленка\Desktop\TIMC\TIMC\obj\x86\Debug\TableDrawer.g.cs
+C:\Users\Оленка\Desktop\TIMC\TIMC\obj\x86\Debug\App.g.cs
+C:\Users\Оленка\Desktop\TIMC\TIMC\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Оленка\Desktop\TIMC\TIMC\obj\x86\Debug\TIMC_MarkupCompile.cache
+C:\Users\Оленка\Desktop\TIMC\TIMC\obj\x86\Debug\TIMC_MarkupCompile.lref
+C:\Users\Оленка\Desktop\TIMC\TIMC\obj\x86\Debug\MainWindow.baml
+C:\Users\Оленка\Desktop\TIMC\TIMC\obj\x86\Debug\TIMC.g.resources
+C:\Users\Оленка\Desktop\TIMC\TIMC\obj\x86\Debug\TIMC.Properties.Resources.resources
+C:\Users\Оленка\Desktop\TIMC\TIMC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Оленка\Desktop\TIMC\TIMC\obj\x86\Debug\GenerateResource.write.1.tlog
+e:\D\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_1\TIMC\obj\x86\Debug\TIMC.exe
+e:\D\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_1\TIMC\obj\x86\Debug\TIMC.pdb
+e:\D\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_1\TIMC\bin\Debug\TIMC.exe
+e:\D\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_1\TIMC\bin\Debug\TIMC.pdb
+e:\D\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_1\TIMC\obj\x86\Debug\PlotDrawer.baml
+e:\D\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_1\TIMC\obj\x86\Debug\TableDrawer.baml
+e:\D\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_1\TIMC\obj\x86\Debug\MainWindow.g.cs
+e:\D\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_1\TIMC\obj\x86\Debug\PlotDrawer.g.cs
+e:\D\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_1\TIMC\obj\x86\Debug\TableDrawer.g.cs
+e:\D\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_1\TIMC\obj\x86\Debug\App.g.cs
+e:\D\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_1\TIMC\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+e:\D\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_1\TIMC\obj\x86\Debug\TIMC_MarkupCompile.cache
+e:\D\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_1\TIMC\obj\x86\Debug\TIMC_MarkupCompile.lref
+e:\D\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_1\TIMC\obj\x86\Debug\MainWindow.baml
+e:\D\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_1\TIMC\obj\x86\Debug\TIMC.g.resources
+e:\D\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_1\TIMC\obj\x86\Debug\TIMC.Properties.Resources.resources
+e:\D\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_1\TIMC\obj\x86\Debug\TIMC.csprojResolveAssemblyReference.cache
+e:\D\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_1\TIMC\obj\x86\Debug\TIMC.csproj.GenerateResource.Cache
+d:\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_1\TIMC\obj\x86\Debug\TIMC.exe
+d:\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_1\TIMC\obj\x86\Debug\TIMC.pdb
+F:\ТІМС (Теорія ймовірностей та математична статистика)\тімс\Exam\ТІМС3\Programs\TIMC_1\TIMC\bin\Debug\TIMC.exe.config
+F:\ТІМС (Теорія ймовірностей та математична статистика)\тімс\Exam\ТІМС3\Programs\TIMC_1\TIMC\bin\Debug\TIMC.exe
+F:\ТІМС (Теорія ймовірностей та математична статистика)\тімс\Exam\ТІМС3\Programs\TIMC_1\TIMC\bin\Debug\TIMC.pdb
+F:\ТІМС (Теорія ймовірностей та математична статистика)\тімс\Exam\ТІМС3\Programs\TIMC_1\TIMC\obj\x86\Debug\TIMC.csproj.AssemblyReference.cache
+F:\ТІМС (Теорія ймовірностей та математична статистика)\тімс\Exam\ТІМС3\Programs\TIMC_1\TIMC\obj\x86\Debug\TIMC.csproj.SuggestedBindingRedirects.cache
+F:\ТІМС (Теорія ймовірностей та математична статистика)\тімс\Exam\ТІМС3\Programs\TIMC_1\TIMC\obj\x86\Debug\PlotDrawer.baml
+F:\ТІМС (Теорія ймовірностей та математична статистика)\тімс\Exam\ТІМС3\Programs\TIMC_1\TIMC\obj\x86\Debug\TableDrawer.baml
+F:\ТІМС (Теорія ймовірностей та математична статистика)\тімс\Exam\ТІМС3\Programs\TIMC_1\TIMC\obj\x86\Debug\MainWindow.g.cs
+F:\ТІМС (Теорія ймовірностей та математична статистика)\тімс\Exam\ТІМС3\Programs\TIMC_1\TIMC\obj\x86\Debug\PlotDrawer.g.cs
+F:\ТІМС (Теорія ймовірностей та математична статистика)\тімс\Exam\ТІМС3\Programs\TIMC_1\TIMC\obj\x86\Debug\TableDrawer.g.cs
+F:\ТІМС (Теорія ймовірностей та математична статистика)\тімс\Exam\ТІМС3\Programs\TIMC_1\TIMC\obj\x86\Debug\App.g.cs
+F:\ТІМС (Теорія ймовірностей та математична статистика)\тімс\Exam\ТІМС3\Programs\TIMC_1\TIMC\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\ТІМС (Теорія ймовірностей та математична статистика)\тімс\Exam\ТІМС3\Programs\TIMC_1\TIMC\obj\x86\Debug\TIMC_MarkupCompile.cache
+F:\ТІМС (Теорія ймовірностей та математична статистика)\тімс\Exam\ТІМС3\Programs\TIMC_1\TIMC\obj\x86\Debug\TIMC_MarkupCompile.lref
+F:\ТІМС (Теорія ймовірностей та математична статистика)\тімс\Exam\ТІМС3\Programs\TIMC_1\TIMC\obj\x86\Debug\MainWindow.baml
+F:\ТІМС (Теорія ймовірностей та математична статистика)\тімс\Exam\ТІМС3\Programs\TIMC_1\TIMC\obj\x86\Debug\TIMC.g.resources
+F:\ТІМС (Теорія ймовірностей та математична статистика)\тімс\Exam\ТІМС3\Programs\TIMC_1\TIMC\obj\x86\Debug\TIMC.Properties.Resources.resources
+F:\ТІМС (Теорія ймовірностей та математична статистика)\тімс\Exam\ТІМС3\Programs\TIMC_1\TIMC\obj\x86\Debug\TIMC.csproj.GenerateResource.cache
+F:\ТІМС (Теорія ймовірностей та математична статистика)\тімс\Exam\ТІМС3\Programs\TIMC_1\TIMC\obj\x86\Debug\TIMC.csproj.CoreCompileInputs.cache
+F:\ТІМС (Теорія ймовірностей та математична статистика)\тімс\Exam\ТІМС3\Programs\TIMC_1\TIMC\obj\x86\Debug\TIMC.exe
+F:\ТІМС (Теорія ймовірностей та математична статистика)\тімс\Exam\ТІМС3\Programs\TIMC_1\TIMC\obj\x86\Debug\TIMC.pdb

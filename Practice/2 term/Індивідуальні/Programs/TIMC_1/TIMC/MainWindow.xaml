@@ -1,0 +1,113 @@
+﻿<Window x:Class="TIMC.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:TIMC"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Name="grid">
+        <StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Шлях до файлу: " Margin="100,0,0,0"/>
+                <TextBox Text="{Binding FilePath}" Width="100" Margin="3,3,3,3"/>
+            </StackPanel>
+            <TabControl>
+                <TabItem>
+                    <TabItem.Header>
+                        Завдання 1
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Button Content="Обчислити таблицю" Margin="3,3,3,3" Name="createTable" Click="createTable_Click_1"/>
+                        <local:TableDrawer x:Name="tableDrawer" Margin="10,10,10,10" HorizontalAlignment="Left"/>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        Завдання 2
+                    </TabItem.Header>
+                    <StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <RadioButton Content="Графік частот"  Name="drawPlot"      Click="drawPlot_Click_1"      Margin="3,3,0,0"/>
+                            <RadioButton Content="Полігон частот" Name="drawPolygon"   Click="drawPolygon_Click_1"   Margin="3,3,0,0"/>
+                            <RadioButton Content="Гістограма"      Name="drawHistogram" Click="drawHistogram_Click_1" Margin="3,3,0,0"/>
+                        </StackPanel>
+                        <local:PlotDrawer x:Name="plotDrawer" HorizontalAlignment="Left" Margin="10,10,10,10"/>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        Завдання 3
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Button Content="Обчислити значення"  Name="calculate" Click="calculate_Click_1"/>
+                        <Grid ShowGridLines="True">
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+
+                            <Label Content="Медіана"  Grid.Row="0" Grid.Column="0"/>
+                            <Label Content="Мода"     Grid.Row="1" Grid.Column="0"/>
+                            <Label Content="Середнє арифметичне" Grid.Row="2" Grid.Column="0"/>
+                            <Label Content="Варіанса" Grid.Row="3" Grid.Column="0"/>
+                            <Label Content="Стандарт" Grid.Row="4" Grid.Column="0"/>
+                            <Label Content="Варіація" Grid.Row="5" Grid.Column="0"/>
+
+                            <Label Name="median"    Grid.Row="0" Grid.Column="1"/>
+                            <Label Name="moda"      Grid.Row="1" Grid.Column="1"/>
+                            <Label Name="average" Grid.Row="2" Grid.Column="1"/>
+                            <Label Name="variance" Grid.Row="3" Grid.Column="1"/>
+                            <Label Name="standart" Grid.Row="4" Grid.Column="1"/>
+                            <Label Name="variation" Grid.Row="5" Grid.Column="1"/>
+
+
+                            <Label Content="Розмах"  Grid.Row="6" Grid.Column="0"/>
+                            <Label Content="2-й центральний момент"     Grid.Row="7" Grid.Column="0"/>
+                            <Label Content="3-й центральний момент" Grid.Row="8" Grid.Column="0"/>
+                            <Label Content="4-й центральний момент" Grid.Row="9" Grid.Column="0"/>
+                            <Label Content="Асиметрія" Grid.Row="10" Grid.Column="0"/>
+                            <Label Content="Ексцес" Grid.Row="11" Grid.Column="0"/>
+
+                            <Label Name="scope"    Grid.Row="6" Grid.Column="1"/>
+                            <Label Name="moment2"      Grid.Row="7" Grid.Column="1"/>
+                            <Label Name="moment3" Grid.Row="8" Grid.Column="1"/>
+                            <Label Name="moment4" Grid.Row="9" Grid.Column="1"/>
+                            <Label Name="asymmetry" Grid.Row="10" Grid.Column="1"/>
+                            <Label Name="excess" Grid.Row="11" Grid.Column="1"/>
+                            
+                            <Label Content="Квартилі"  Grid.Row="12" Grid.Column="0"/>
+                            <Label Content="Октилі"     Grid.Row="13" Grid.Column="0"/>
+                            <Label Content="Децилі" Grid.Row="14" Grid.Column="0"/>
+                            <Label Content="Центилі" Grid.Row="15" Grid.Column="0"/>
+                            <Label Content="Мілілі" Grid.Row="16" Grid.Column="0"/>
+                            
+                            <Label Name="quartiles"  Grid.Row="12" Grid.Column="1"/>
+                            <Label Name="octiles"     Grid.Row="13" Grid.Column="1"/>
+                            <Label Name="deciles" Grid.Row="14" Grid.Column="1"/>
+                            <Label Name="centiles" Grid.Row="15" Grid.Column="1"/>
+                            <Label Name="mililes" Grid.Row="16" Grid.Column="1"/>
+                        </Grid>
+                    </StackPanel>
+                </TabItem>
+            </TabControl>
+        </StackPanel>
+        
+    </Grid>
+</Window>
