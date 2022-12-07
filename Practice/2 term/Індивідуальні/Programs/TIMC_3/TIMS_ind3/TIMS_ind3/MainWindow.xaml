@@ -1,0 +1,103 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:chartingToolkit="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit" x:Class="TIMS_ind3.MainWindow"
+        Title="" Height="383" Width="632" ResizeMode="CanMinimize">
+    <Grid>
+        <TabControl HorizontalAlignment="Left" Height="342" VerticalAlignment="Top" Width="614">
+            <TabItem Header="Дані">
+                <Grid Background="Beige" Margin="0,-4,0,4">
+                    <Button x:Name="readButton" Content="Відкрити" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Grid.ColumnSpan="2" Click="readButton_Click"/>
+                    <DataGrid x:Name="inputDataGrid" ItemsSource="{Binding}"
+						AutoGenerateColumns="False" Margin="4,49,6,190"
+						HorizontalScrollBarVisibility="Hidden"
+						VerticalScrollBarVisibility="Visible">
+                        <DataGrid.LayoutTransform>
+                            <TransformGroup>
+                                <RotateTransform Angle="90"/>
+                                <MatrixTransform Matrix="-1,0,0,1,0,0"/>
+                            </TransformGroup>
+                        </DataGrid.LayoutTransform>
+                        <DataGrid.ColumnHeaderStyle>
+                            <Style TargetType="{x:Type DataGridColumnHeader}"
+								BasedOn="{StaticResource {x:Type DataGridColumnHeader}}">
+                                <Setter Property="LayoutTransform">
+                                    <Setter.Value>
+                                        <TransformGroup>
+                                            <RotateTransform Angle="-90"/>
+                                            <ScaleTransform ScaleX="1" ScaleY="-1" />
+                                        </TransformGroup>
+                                    </Setter.Value>
+                                </Setter>
+                            </Style>
+                        </DataGrid.ColumnHeaderStyle>
+                        <DataGrid.CellStyle>
+                            <Style  TargetType="{x:Type DataGridCell}">
+                                <Setter Property="LayoutTransform">
+                                    <Setter.Value>
+                                        <TransformGroup>
+                                            <RotateTransform Angle="-90"/>
+                                            <ScaleTransform ScaleX="1" ScaleY="-1" />
+                                        </TransformGroup>
+                                    </Setter.Value>
+                                </Setter>
+                            </Style>
+                        </DataGrid.CellStyle>
+                        <DataGrid.Columns>
+                            <DataGridTextColumn  Header="x" Binding="{Binding Key}" CanUserResize="False"/>
+                            <DataGridTextColumn  Header="n" Binding="{Binding Value}" CanUserResize="False"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <DataGrid x:Name="intervalsGrid" ItemsSource="{Binding}"
+						AutoGenerateColumns="False" Margin="5,127,50,131"
+						HorizontalScrollBarVisibility="Hidden"
+						VerticalScrollBarVisibility="Hidden">
+                        <DataGrid.LayoutTransform>
+                            <TransformGroup>
+                                <RotateTransform Angle="90"/>
+                                <MatrixTransform Matrix="-1,0,0,1,0,0"/>
+                            </TransformGroup>
+                        </DataGrid.LayoutTransform>
+                        <DataGrid.ColumnHeaderStyle>
+                            <Style TargetType="{x:Type DataGridColumnHeader}"
+								BasedOn="{StaticResource {x:Type DataGridColumnHeader}}">
+                                <Setter Property="LayoutTransform">
+                                    <Setter.Value>
+                                        <TransformGroup>
+                                            <RotateTransform Angle="-90"/>
+                                            <ScaleTransform ScaleX="1" ScaleY="-1" />
+                                        </TransformGroup>
+                                    </Setter.Value>
+                                </Setter>
+                            </Style>
+                        </DataGrid.ColumnHeaderStyle>
+                        <DataGrid.CellStyle>
+                            <Style  TargetType="{x:Type DataGridCell}">
+                                <Setter Property="LayoutTransform">
+                                    <Setter.Value>
+                                        <TransformGroup>
+                                            <RotateTransform Angle="-90"/>
+                                            <ScaleTransform ScaleX="1" ScaleY="-1" />
+                                        </TransformGroup>
+                                    </Setter.Value>
+                                </Setter>
+                            </Style>
+                        </DataGrid.CellStyle>
+                        <DataGrid.Columns>
+                            <DataGridTextColumn  Header="[x(i-1),x(i))" Binding="{Binding Key}"/>
+                            <DataGridTextColumn  Header="n" Binding="{Binding Value}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <TextBox x:Name="outputTextBox" IsReadOnly="True" VerticalScrollBarVisibility="Visible" HorizontalAlignment="Left" Height="120" Margin="5,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="555"/>
+                    <Label x:Name="numberLabel" Content="n:" HorizontalAlignment="Left" Margin="102,6,0,0" VerticalAlignment="Top"/>
+                    <TextBlock x:Name="numberTextBlock" HorizontalAlignment="Left" Margin="121,11,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Гістограма">
+                <chartingToolkit:Chart x:Name="histogramChart" HorizontalAlignment="Left" Title="Гістограма" Margin="5,2,0,0" VerticalAlignment="Top" Height="310" Width="550">
+                    <chartingToolkit:ColumnSeries Title="[x(i-1),x(i))" DependentValuePath="Value" IndependentValuePath="Key" ItemsSource="{Binding}"/>
+                </chartingToolkit:Chart>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

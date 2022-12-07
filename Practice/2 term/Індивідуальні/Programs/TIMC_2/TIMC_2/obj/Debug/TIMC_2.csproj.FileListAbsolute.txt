@@ -1,0 +1,6 @@
+D:\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_2\TIMC_2\bin\Debug\TIMC_2.exe.config
+D:\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_2\TIMC_2\bin\Debug\TIMC_2.exe
+D:\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_2\TIMC_2\bin\Debug\TIMC_2.pdb
+D:\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_2\TIMC_2\obj\Debug\TIMC_2.csprojResolveAssemblyReference.cache
+D:\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_2\TIMC_2\obj\Debug\TIMC_2.exe
+D:\Універ))\Курс 3\СЕМЕСТР1\ТІМС\Programs\TIMC_2\TIMC_2\obj\Debug\TIMC_2.pdb

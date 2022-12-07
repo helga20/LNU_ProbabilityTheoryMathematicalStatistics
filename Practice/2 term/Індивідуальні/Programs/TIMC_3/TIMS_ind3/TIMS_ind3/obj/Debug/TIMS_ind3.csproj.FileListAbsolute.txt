@@ -1,0 +1,32 @@
+C:\Users\Oleh\Documents\Visual Studio 2012\Projects\TIMS_ind3\TIMS_ind3\bin\Debug\TIMS_ind3.exe.config
+C:\Users\Oleh\Documents\Visual Studio 2012\Projects\TIMS_ind3\TIMS_ind3\bin\Debug\TIMS_ind3.exe
+C:\Users\Oleh\Documents\Visual Studio 2012\Projects\TIMS_ind3\TIMS_ind3\bin\Debug\TIMS_ind3.pdb
+C:\Users\Oleh\Documents\Visual Studio 2012\Projects\TIMS_ind3\TIMS_ind3\obj\Debug\TIMS_ind3.csprojResolveAssemblyReference.cache
+C:\Users\Oleh\Documents\Visual Studio 2012\Projects\TIMS_ind3\TIMS_ind3\obj\Debug\MainWindow.baml
+C:\Users\Oleh\Documents\Visual Studio 2012\Projects\TIMS_ind3\TIMS_ind3\obj\Debug\MainWindow.g.cs
+C:\Users\Oleh\Documents\Visual Studio 2012\Projects\TIMS_ind3\TIMS_ind3\obj\Debug\App.g.cs
+C:\Users\Oleh\Documents\Visual Studio 2012\Projects\TIMS_ind3\TIMS_ind3\obj\Debug\TIMS_ind3_MarkupCompile.cache
+C:\Users\Oleh\Documents\Visual Studio 2012\Projects\TIMS_ind3\TIMS_ind3\obj\Debug\TIMS_ind3.g.resources
+C:\Users\Oleh\Documents\Visual Studio 2012\Projects\TIMS_ind3\TIMS_ind3\obj\Debug\TIMS_ind3.Properties.Resources.resources
+C:\Users\Oleh\Documents\Visual Studio 2012\Projects\TIMS_ind3\TIMS_ind3\obj\Debug\TIMS_ind3.csproj.GenerateResource.Cache
+C:\Users\Oleh\Documents\Visual Studio 2012\Projects\TIMS_ind3\TIMS_ind3\obj\Debug\TIMS_ind3.exe
+C:\Users\Oleh\Documents\Visual Studio 2012\Projects\TIMS_ind3\TIMS_ind3\obj\Debug\TIMS_ind3.pdb
+C:\Users\Oleh\Documents\Visual Studio 2012\Projects\TIMS_ind3\TIMS_ind3\bin\Debug\system.windows.controls.datavisualization.toolkit.dll
+C:\Users\Oleh\Documents\Visual Studio 2012\Projects\TIMS_ind3\TIMS_ind3\bin\Debug\WPFToolkit.dll
+C:\Users\Oleh\Documents\Visual Studio 2012\Projects\TIMS_ind3\TIMS_ind3\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+C:\Users\Oleh\Documents\Visual Studio 2012\Projects\TIMS_ind3\TIMS_ind3\bin\Debug\WPFToolkit.pdb
+C:\Users\Оленка\Desktop\TIMS_ind3\TIMS_ind3\TIMS_ind3\bin\Debug\TIMS_ind3.exe.config
+C:\Users\Оленка\Desktop\TIMS_ind3\TIMS_ind3\TIMS_ind3\obj\Debug\TIMS_ind3.exe
+C:\Users\Оленка\Desktop\TIMS_ind3\TIMS_ind3\TIMS_ind3\obj\Debug\TIMS_ind3.pdb
+C:\Users\Оленка\Desktop\TIMS_ind3\TIMS_ind3\TIMS_ind3\bin\Debug\TIMS_ind3.exe
+C:\Users\Оленка\Desktop\TIMS_ind3\TIMS_ind3\TIMS_ind3\bin\Debug\TIMS_ind3.pdb
+C:\Users\Оленка\Desktop\TIMS_ind3\TIMS_ind3\TIMS_ind3\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+C:\Users\Оленка\Desktop\TIMS_ind3\TIMS_ind3\TIMS_ind3\bin\Debug\WPFToolkit.pdb
+C:\Users\Оленка\Desktop\TIMS_ind3\TIMS_ind3\TIMS_ind3\obj\Debug\TIMS_ind3.csprojResolveAssemblyReference.cache
+C:\Users\Оленка\Desktop\TIMS_ind3\TIMS_ind3\TIMS_ind3\obj\Debug\MainWindow.baml
+C:\Users\Оленка\Desktop\TIMS_ind3\TIMS_ind3\TIMS_ind3\obj\Debug\MainWindow.g.cs
+C:\Users\Оленка\Desktop\TIMS_ind3\TIMS_ind3\TIMS_ind3\obj\Debug\App.g.cs
+C:\Users\Оленка\Desktop\TIMS_ind3\TIMS_ind3\TIMS_ind3\obj\Debug\TIMS_ind3_MarkupCompile.cache
+C:\Users\Оленка\Desktop\TIMS_ind3\TIMS_ind3\TIMS_ind3\obj\Debug\TIMS_ind3.g.resources
+C:\Users\Оленка\Desktop\TIMS_ind3\TIMS_ind3\TIMS_ind3\obj\Debug\TIMS_ind3.Properties.Resources.resources
+C:\Users\Оленка\Desktop\TIMS_ind3\TIMS_ind3\TIMS_ind3\obj\Debug\TIMS_ind3.csproj.GenerateResource.Cache
