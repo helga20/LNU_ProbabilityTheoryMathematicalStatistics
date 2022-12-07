@@ -1,0 +1,30 @@
+E:\SMT\VS\pr1\pr1\bin\Debug\pr1.exe.config
+E:\SMT\VS\pr1\pr1\bin\Debug\pr1.exe
+E:\SMT\VS\pr1\pr1\bin\Debug\pr1.pdb
+E:\SMT\VS\pr1\pr1\obj\Debug\pr1.csprojResolveAssemblyReference.cache
+E:\SMT\VS\pr1\pr1\obj\Debug\MainWindow.baml
+E:\SMT\VS\pr1\pr1\obj\Debug\MainWindow.g.cs
+E:\SMT\VS\pr1\pr1\obj\Debug\App.g.cs
+E:\SMT\VS\pr1\pr1\obj\Debug\pr1_MarkupCompile.cache
+E:\SMT\VS\pr1\pr1\obj\Debug\pr1.g.resources
+E:\SMT\VS\pr1\pr1\obj\Debug\pr1.Properties.Resources.resources
+E:\SMT\VS\pr1\pr1\obj\Debug\pr1.csproj.GenerateResource.Cache
+E:\SMT\VS\pr1\pr1\obj\Debug\pr1.exe
+E:\SMT\VS\pr1\pr1\obj\Debug\pr1.pdb
+E:\SMT\VS\pr1\pr1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\SMT\VS\pr1\pr1\obj\Debug\pr1_MarkupCompile.lref
+d:\Універ))\Курс 3\СЕМЕСТР1\ТІМС\pr1\pr1\bin\Debug\pr1.exe.config
+d:\Універ))\Курс 3\СЕМЕСТР1\ТІМС\pr1\pr1\obj\Debug\pr1.exe
+d:\Універ))\Курс 3\СЕМЕСТР1\ТІМС\pr1\pr1\obj\Debug\pr1.pdb
+d:\Універ))\Курс 3\СЕМЕСТР1\ТІМС\pr1\pr1\bin\Debug\pr1.exe
+d:\Універ))\Курс 3\СЕМЕСТР1\ТІМС\pr1\pr1\bin\Debug\pr1.pdb
+d:\Універ))\Курс 3\СЕМЕСТР1\ТІМС\pr1\pr1\obj\Debug\pr1.csprojResolveAssemblyReference.cache
+d:\Універ))\Курс 3\СЕМЕСТР1\ТІМС\pr1\pr1\obj\Debug\MainWindow.g.cs
+d:\Універ))\Курс 3\СЕМЕСТР1\ТІМС\pr1\pr1\obj\Debug\App.g.cs
+d:\Універ))\Курс 3\СЕМЕСТР1\ТІМС\pr1\pr1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\Універ))\Курс 3\СЕМЕСТР1\ТІМС\pr1\pr1\obj\Debug\pr1_MarkupCompile.cache
+d:\Універ))\Курс 3\СЕМЕСТР1\ТІМС\pr1\pr1\obj\Debug\pr1_MarkupCompile.lref
+d:\Універ))\Курс 3\СЕМЕСТР1\ТІМС\pr1\pr1\obj\Debug\MainWindow.baml
+d:\Універ))\Курс 3\СЕМЕСТР1\ТІМС\pr1\pr1\obj\Debug\pr1.g.resources
+d:\Універ))\Курс 3\СЕМЕСТР1\ТІМС\pr1\pr1\obj\Debug\pr1.Properties.Resources.resources
+d:\Універ))\Курс 3\СЕМЕСТР1\ТІМС\pr1\pr1\obj\Debug\pr1.csproj.GenerateResource.Cache
