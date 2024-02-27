@@ -14,4 +14,4 @@
 
 https://t.me/+BpU1lIYARcY0YWMy
 
-https://t.me/joinchat/AAAAAFcRAQPxocKmO4rqRQ
+https://t.me/+RuKPIyAFbjpRDtEz
